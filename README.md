@@ -1,6 +1,8 @@
 # deep_learning_specialization
 Deep Learning Specialization from DeepLearning.ai on Coursera
 
+Personal repository to repeat the amazing course material. 
+
 ## Programming Assignments
 
 ### Course 1: Neural Networks and Deep Learning
